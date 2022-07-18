@@ -1,4 +1,5 @@
 # Citi Bikes Challenge
+#### [Tableau link](https://public.tableau.com/views/CitiBikesChallengeFinal/CitiBikes?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview:
 The purpose of this challenge is to parse data from Citi Bikes to determine if a similar operation is feasible in Des Moines.  This analysis breaks down Citi Bike data from August 2019 and compares data by user type, usage time, and gender type.  Although the data is specific to NYC, metrics regarding gender and usage time may be analogous to other markets.  The final presentation will be viewed by various stakeholders that will determine if this is a viable business for Des Moines.
@@ -10,7 +11,7 @@ The overview demonstrates that there were over 2 million rides for the month of 
 The peak hours comparison shows that the most popular drop off time is 6pm, more than 220,000 users drop off their bikes at than time.  Peak morning hours are between 8am and 9am, slightly less than 160,000 users drop off their bikes during that timeframe.
 ![peak hours](https://github.com/laurlen2112/citi_bikes/blob/main/resources/august%20peak.png)
 
-A comparison of heat maps showing weekday trips by hour and gender demonstrate that both male and females follow similar ride patterns.  The higher number of male users are noted by the darker colors in the heat map.
+A comparison of heat maps showing weekday trips by hour and gender demonstrate that both male and females follow similar ride patterns.  The higher number of male users are noted by the darker colors of the heat map.
 ![heat map](https://github.com/laurlen2112/citi_bikes/blob/main/resources/heat%20map.png)
 
 Finally, a comparison of the starting and ending locations indicates that the starting and ending locations have similar popularity.  One inference is that users are starting and ending at the same location.  Another inference is that the heavily used locations are close to work, shopping, dining, housing, or tourist attractions so users are picking up and dropping off bikes at locations that complement their activities.
