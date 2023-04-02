@@ -2,7 +2,7 @@
 #### [Tableau link](https://public.tableau.com/views/CitiBikesChallengeFinal/CitiBikes?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview:
-The purpose of this challenge is to parse data from Citi Bikes to determine if a similar operation is feasible in Des Moines.  This analysis examines Citi Bike data from August 2019 and compares data by user type, usage time, and gender type.  Although the data is specific to NYC, metrics regarding gender and usage time may be analogous to other markets.  The final presentation will be viewed by various stakeholders that will determine if this is a viable business for Des Moines.
+The objective of this task is to analyze data obtained from Citi Bikes and evaluate the feasibility of implementing a comparable service in Des Moines. The analysis is based on data gathered from Citi Bike usage in August 2019 and assesses usage patterns by user type, duration, and gender. Although the data is specific to New York City, the findings regarding usage time and gender may have applicability to other markets. The outcome of the analysis will be presented to stakeholders, who will determine whether the proposed venture is feasible in Des Moines.
 
 ## Results:
 The overview demonstrates that there were over 2 million rides for the month of August.  About 77% of users are subscribers and the gender breakdown shows that about 48% of users are male while about 38% of users are female.  About 14% of users do not have a gender type on record.
@@ -10,22 +10,23 @@ The overview demonstrates that there were over 2 million rides for the month of 
 ![Overview](https://github.com/laurlen2112/citi_bikes/blob/main/resources/overview%202.png)
 
 
-The peak hours comparison shows that the most popular drop off time is 6pm, more than 220,000 users drop off bikes at that time.  Peak morning hours are between 8am and 9am, slightly less than 160,000 users drop off bikes during that timeframe.
+Based on a comparison of peak hours, it is apparent that the most favored time for returning bikes is 6 pm, with over 220,000 users doing so. In contrast, the busiest morning hours are between 8 am and 9 am, with slightly fewer than 160,000 users returning their bikes during that time.
 
 ![peak hours](https://github.com/laurlen2112/citi_bikes/blob/main/resources/august%20peak.png)
 
 
-A comparison of heat maps showing weekday trips by hour and gender demonstrate that both male and females follow similar ride patterns.  The higher number of male users are noted by the darker colors of the heat map.
+The heat map analysis of weekday trips by hour and gender indicates that males and females exhibit comparable riding behaviors. However, the heat map displays a higher concentration of male users, as evidenced by the darker colors used to represent them.
 
 ![heat map](https://github.com/laurlen2112/citi_bikes/blob/main/resources/heat%20map.png)
 
 
-Finally, a comparison of the starting and ending locations indicates that the starting and ending locations have similar popularity.  One inference is  users are starting and ending at the same location.  Another inference is that heavily trafficked locations are close to work, shopping, dining, housing, or tourist attractions so users are picking up and dropping off bikes at locations that complement their activities.
+The analysis of starting and ending locations reveals that both are equally popular, suggesting that users often begin and end their trips at the same place. This could indicate that the locations are frequently used as a starting and ending point for commuting or leisure activities such as shopping, dining, and tourism. Alternatively, it could suggest that these heavily trafficked locations are situated near commercial, residential, or tourist hubs, making them ideal spots for users to start and end their journeys.
+
 
 ![start and end](https://github.com/laurlen2112/citi_bikes/blob/main/resources/start%20and%20end.png)
 
 
 ## Summary:
-Additional visualizations can be gleaned from this data.  For example, the August peak time information can be drilled down to create an additional bar chart showing which locations are busiest during peak times.  Given the numerous locations, it would be wise to limit this inquiry to the top 10 - 15 locations.  It is also possible to break down the user type further.  For example, another pie chart can show the subscriber and customer metrics by gender.  It may be illuminating to know if one gender favors subscribing to the service or if gender types are equally distributed among user types.  These additional inquires could be helpful for marketing initiatives.
+This dataset provides opportunities for creating additional visualizations that could yield valuable insights. For instance, a bar chart could be generated to show the busiest locations during peak times in August. Due to the large number of locations, it may be prudent to limit the analysis to the top 10-15 sites. Additionally, further segmentation of user types could be conducted by generating a pie chart depicting the subscriber and customer metrics by gender. This could provide useful information for marketing initiatives, such as determining if one gender prefers subscribing to the service or if gender types are equally represented among user types.
 
-Finally, while the analysis demonstrates that a business model similar to Citi Bikes could be a viable venture in setting that shares commonalities with NYC, it may not be sufficient to predict the success of this venture in Des Moines because no analysis has been conducted on Des Moines.  As demonstrated by the starting and ending locations map, one of the reasons Citi Bike is successful is due to NYC's compact infrastructure and high population density.  Therefore, prior to moving forward on this business venture it would be wise to determine if Des Moines' infrastructure and population would support this business.  If the city is too spread out, users may not utilize the business due to inconvenience.  Additionally, if the resident population and tourist population are low, the venture may saturate the market too quickly and not be able to attract new customers.  Therefore, prior to moving forward, additional analysis should be conducted.
+The analysis indicates that a business model similar to Citi Bikes may be a feasible proposition in areas that share similarities with New York City. However, it cannot be assumed that this would guarantee success in Des Moines, as no analysis has been conducted on that region. As illustrated by the starting and ending locations map, the success of Citi Bike can be attributed in part to NYC's compact infrastructure and high population density. Consequently, it would be prudent to evaluate whether Des Moines' infrastructure and population could support such a business before moving forward with the venture. If the city is too spread out, users may find the service inconvenient and may not utilize it. Moreover, if the resident and tourist population is insufficient, the market may become oversaturated too quickly, making it difficult to attract new customers. Therefore, conducting additional analysis before proceeding with the venture is advisable.
