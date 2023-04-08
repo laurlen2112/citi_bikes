@@ -23,7 +23,7 @@ The heat map analysis of weekday trips by hour and gender indicates that males a
 The analysis of starting and ending locations reveals that both are equally popular, suggesting that users often begin and end their trips at the same place. This could indicate that the locations are frequently used as a starting and ending point for commuting or leisure activities such as shopping, dining, and tourism. Alternatively, it could suggest that these heavily trafficked locations are situated near commercial, residential, or tourist hubs, making them ideal spots for users to start and end their journeys.
 
 
-![start and end](https://github.com/laurlen2112/citi_bikes/blob/main/resources/last%20picture.png)
+![start and end](https://github.com/laurlen2112/citi_bikes/blob/main/resources/end%20and%20start%20locations.png)
 
 
 ## Summary:
