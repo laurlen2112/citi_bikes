@@ -1,5 +1,5 @@
 # Citi Bikes Challenge
-#### [Tableau link](https://public.tableau.com/views/CitiBikesChallengeFinal/CitiBikes?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### [Tableau link](https://public.tableau.com/app/profile/lauren7917/viz/CitiBikesChallengeFinalUpdated/CitiBikes)
 
 ## Overview:
 The objective of this task is to analyze data obtained from Citi Bikes and evaluate the feasibility of implementing a comparable service in Des Moines. The analysis is based on data gathered from Citi Bike usage in August 2019 and assesses usage patterns by user type, duration, and gender. Although the data is specific to New York City, the findings regarding usage time and gender may have applicability to other markets. The outcome of the analysis will be presented to stakeholders, who will determine whether the proposed venture is feasible in Des Moines.
