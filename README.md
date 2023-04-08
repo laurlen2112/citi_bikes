@@ -7,23 +7,23 @@ The objective of this task is to analyze data obtained from Citi Bikes and evalu
 ## Results:
 The overview demonstrates that there were over 2 million rides for the month of August.  About 77% of users are subscribers and the gender breakdown shows that about 48% of users are male while about 38% of users are female.  About 14% of users do not have a gender type on record.
 
-![Overview](https://github.com/laurlen2112/citi_bikes/blob/main/resources/overview%202.png)
+![Overview](https://github.com/laurlen2112/citi_bikes/blob/main/resources/results%20pic%201.png)
 
 
 Based on a comparison of peak hours, it is apparent that the most favored time for returning bikes is 6 pm, with over 220,000 users doing so. In contrast, the busiest morning hours are between 8 am and 9 am, with slightly fewer than 160,000 users returning their bikes during that time.
 
-![peak hours](https://github.com/laurlen2112/citi_bikes/blob/main/resources/august%20peak.png)
+<img src ="https://github.com/laurlen2112/citi_bikes/blob/main/resources/august%20peak%20hours%202.png" height = "600" width= "900"/>
 
 
 The heat map analysis of weekday trips by hour and gender indicates that males and females exhibit comparable riding behaviors. However, the heat map displays a higher concentration of male users, as evidenced by the darker colors used to represent them.
 
-![heat map](https://github.com/laurlen2112/citi_bikes/blob/main/resources/heat%20map.png)
+![heat map](https://github.com/laurlen2112/citi_bikes/blob/main/resources/heatmap%203.png)
 
 
 The analysis of starting and ending locations reveals that both are equally popular, suggesting that users often begin and end their trips at the same place. This could indicate that the locations are frequently used as a starting and ending point for commuting or leisure activities such as shopping, dining, and tourism. Alternatively, it could suggest that these heavily trafficked locations are situated near commercial, residential, or tourist hubs, making them ideal spots for users to start and end their journeys.
 
 
-![start and end](https://github.com/laurlen2112/citi_bikes/blob/main/resources/start%20and%20end.png)
+![start and end](https://github.com/laurlen2112/citi_bikes/blob/main/resources/last%20picture.png)
 
 
 ## Summary:
